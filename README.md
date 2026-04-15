@@ -69,7 +69,7 @@ Motto     →  Ship fast. Learn deep. Lift others.
 
 ---
 
-## Projects
+## Featured Projects
 
 ### 01 · [Stellar IDE](https://github.com/Alouzious/stellar-ide) — Web3
 Browser-based IDE for writing, testing, and deploying Stellar smart contracts (Soroban). No local setup — open the browser and start building on Stellar from anywhere.
@@ -98,7 +98,7 @@ AI tool that analyses and refines student pitch decks with real-time feedback. H
 
 | Role | Organisation | Since |
 |------|-------------|-------|
-| Stellar Ambassador — Uganda Lead | Stellar Development Foundation | 2024 |
+| Stellar Ambassador — Uganda Lead | Stellar East Africa Community | 2024 |
 | Technical Lead — IndabaX Kabale AI Club | Kabale University | 2024 |
 | Zindua Ambassador | Zindua School, East Africa | 2024 |
 | Engineer | Beta Tech Labs — AI & Blockchain Hub, Uganda | 2024 |
