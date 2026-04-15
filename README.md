@@ -47,6 +47,7 @@ Motto     →  Ship fast. Learn deep. Lift others.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-Rust%20Framework-000000?style=flat-square&logo=rust&logoColor=white)
 
 **Blockchain & Web3**
 ![Stellar](https://img.shields.io/badge/Stellar-090909?style=flat-square&logo=stellar&logoColor=white)
